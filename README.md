@@ -2,7 +2,7 @@
 Free PHPコード難読化ツールに対する簡易解読プログラム
 ## 対応難読化ツール
 - FOPO
-- Best PHP Obfuscator(pipo-mania)
+- Best PHP Obfuscator(pipso-mania)
 
 ## 注意!!
 - 例外とか全く考えていない
